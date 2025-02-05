@@ -4,7 +4,7 @@
 
 ## 👥 Team Members
 
-- **Oliver Sanchez** - AI & Machine Learning Specialist
+- **Oliver Sanchez** - Robotics & Machine Learning researcher/engineer
 - **Adi Singh** - Robotics Engineer & Backend Developer
 - **Hamza Zafar** - Data Scientist & NLP Expert
 - **Putri Azizah** - Computer Vision Expert
@@ -15,14 +15,7 @@ real-world challenges.
 
 # The Local Llama 🦙
 
-This project is a demo application that:
-
-- Accepts a search query in a user’s language.
-- Translates the query to the local language (using a Llama-based API).
-- Uses the Google Custom Search API to retrieve localized search results.
-- Summarizes the results via Llama.
-- Displays the top 10 results with images (if available) in a clean front-end.
-
+Search like a local, anywhere, in any language.
 ## Setup
 
 1. **Clone the repository and navigate to the project folder:**
@@ -55,11 +48,4 @@ This project is a demo application that:
 
    Open your browser at [http://localhost:5000](http://localhost:5000).
 
-## Notes
 
-- Ensure your Llama API (or Ollama) is running and accessible at the URL specified in your `.env` file.
-- Customize the supported countries and languages in `app.py` as needed.
-- This is a demo. In a production setting, you may wish to add error handling, security enhancements, and further
-  refinements to the UI.
-
-Happy coding!
