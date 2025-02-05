@@ -38,6 +38,8 @@ This project is a demo application that:
    pip install -r requirements.txt
    ```
 
+   FIX the API keys, google has 100 free tokens every day!
+
 3. **Set up your environment variables:**
 
    Create a `.env` file in the project root (see the provided example) and insert your API keys and configuration
